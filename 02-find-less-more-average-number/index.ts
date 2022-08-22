@@ -19,5 +19,5 @@ function findSmallBigAverage() {
   console.log("The biggest number is " + bigNumber);
   console.log("The average number is " + aveNumber / numbers.length);
 }
- 
+
 findSmallBigAverage();
