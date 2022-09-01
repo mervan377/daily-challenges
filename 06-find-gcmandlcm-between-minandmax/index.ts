@@ -7,6 +7,6 @@ const findGcmLcm = (min, max, number1, number2): number[] => {
   }
   return gcmlcmNumbers;
 };
-const findGcmLcmNumbers: number[] = findGcmLcm(0, 200, 3, 5);
+const findGcmLcmNumbers: number[] = findGcmLcm(0, 20, 2, 4);
 console.log(findGcmLcmNumbers);
 //İki sayı arasında ki dışarıdan gelen rastgele iki sayının okek ve obebini bulan fonksiyon
